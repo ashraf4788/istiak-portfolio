@@ -31,7 +31,7 @@ export default function Hero() {
           </div>
 
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight leading-[1.1] mb-6">
-            Test{" "}
+            Crafting{" "}
             <span className="text-[#2C8C68] underline decoration-[#2C8C68]/30 decoration-wavy underline-offset-8">
               Meaningful
             </span>{" "}
